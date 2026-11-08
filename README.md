@@ -24,6 +24,12 @@ Sales analysis project focused on understanding sales performance and business i
 
 Sales data analysis to explore sales trends, regional performance, and profitability.
 
+### 3. E-commerce Sales Analysis
+
+E-commerce data analysis using Microsoft Excel to understand sales performance, customer behavior, product popularity, and delivery performance.
+
+**Tools:** Microsoft Excel, Pivot Tables, Data Analysis, Dashboard & KPI Analysis.
+
 ## 🎯 Career Goal
 
 Seeking an entry-level Data Analyst opportunity where I can apply my analytical skills and continue learning.
