@@ -32,7 +32,7 @@ This project analyzes e-commerce sales data using Microsoft Excel to understand 
 To analyze e-commerce transactions and generate meaningful insights that support better business decisions.
 
 ## Project File
-Ecommerce project ( COMPLETED ).xlsx
+E-commerce-Sales-Analysis.xlsx
 
 ## Author
 Amar Binas
