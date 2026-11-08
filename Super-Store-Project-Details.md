@@ -29,7 +29,7 @@ This project analyzes Superstore sales data using Microsoft Excel to understand 
 To analyze sales and profit data, identify business trends, and present meaningful insights through an interactive Excel dashboard.
 
 ## Project File
-Sample project (COMPLETED).xlsx
+Super-Store-Sales-Analysis.xlsx
 
 ## Author
 Amar Binas
